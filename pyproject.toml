@@ -1,0 +1,42 @@
+[project]
+name = "learn-sklearn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "black>=25.9.0",
+    "catboost>=1.2.8",
+    "category-encoders>=2.8.1",
+    "dask[complete]>=2025.10.0",
+    "fastapi>=0.120.0",
+    "imbalanced-learn>=0.14.0",
+    "ipywidgets>=8.1.7",
+    "isort>=7.0.0",
+    "joblib>=1.5.2",
+    "jupyterlab>=4.4.10",
+    "lightgbm>=4.6.0",
+    "lime>=0.2.0.1",
+    "matplotlib>=3.10.7",
+    "mypy>=1.18.2",
+    "nltk>=3.9.2",
+    "notebook>=7.4.7",
+    "numpy>=2.3.4",
+    "optuna>=4.5.0",
+    "optuna-dashboard>=0.19.0",
+    "pandas>=2.3.3",
+    "plotly>=6.3.1",
+    "pyarrow>=22.0.0",
+    "python-dotenv>=1.2.1",
+    "ruff>=0.14.2",
+    "scikit-learn>=1.7.2",
+    "scikit-learn-intelex>=2025.9.0",
+    "scipy>=1.16.2",
+    "seaborn>=0.13.2",
+    "shap>=0.49.1",
+    "spacy>=3.8.7",
+    "tqdm>=4.67.1",
+    "uvicorn[standard]>=0.38.0",
+    "xgboost>=3.1.1",
+]
