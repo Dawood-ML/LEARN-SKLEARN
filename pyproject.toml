@@ -13,6 +13,7 @@ dependencies = [
     "eli5>=0.16.0",
     "fastapi>=0.120.0",
     "imbalanced-learn>=0.14.0",
+    "ipykernel>=7.1.0",
     "ipywidgets>=8.1.7",
     "isort>=7.0.0",
     "joblib>=1.5.2",
